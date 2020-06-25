@@ -1,0 +1,61 @@
+C:\Users\Eimis\source\repos\Charity\Charity\bin\Debug\netcoreapp2.2\Charity.deps.json
+C:\Users\Eimis\source\repos\Charity\Charity\bin\Debug\netcoreapp2.2\Charity.runtimeconfig.json
+C:\Users\Eimis\source\repos\Charity\Charity\bin\Debug\netcoreapp2.2\Charity.runtimeconfig.dev.json
+C:\Users\Eimis\source\repos\Charity\Charity\bin\Debug\netcoreapp2.2\Charity.dll
+C:\Users\Eimis\source\repos\Charity\Charity\bin\Debug\netcoreapp2.2\Charity.pdb
+C:\Users\Eimis\source\repos\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.csprojAssemblyReference.cache
+C:\Users\Eimis\source\repos\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.csproj.CoreCompileInputs.cache
+C:\Users\Eimis\source\repos\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.RazorAssemblyInfo.cache
+C:\Users\Eimis\source\repos\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.RazorAssemblyInfo.cs
+C:\Users\Eimis\source\repos\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.AssemblyInfoInputs.cache
+C:\Users\Eimis\source\repos\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.AssemblyInfo.cs
+C:\Users\Eimis\source\repos\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.RazorTargetAssemblyInfo.cache
+C:\Users\Eimis\source\repos\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.dll
+C:\Users\Eimis\source\repos\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.pdb
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.dll
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.pdb
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\Charity.deps.json
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\Charity.runtimeconfig.json
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\Charity.runtimeconfig.dev.json
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\Charity.dll
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\Charity.pdb
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.csprojAssemblyReference.cache
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.csproj.CoreCompileInputs.cache
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.RazorAssemblyInfo.cache
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.RazorAssemblyInfo.cs
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.AssemblyInfoInputs.cache
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.AssemblyInfo.cs
+C:\Users\Eimis\source\repos\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.RazorTargetAssemblyInfo.cache
+C:\Users\Eimis\Downloads\Charity – kopija\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Eimis\Downloads\Charity – kopija\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Eimis\Downloads\Charity – kopija\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Eimis\Downloads\Charity – kopija\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.AssemblyInfoInputs.cache
+C:\Users\Eimis\Downloads\Charity – kopija\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.AssemblyInfo.cs
+C:\Users\Eimis\Downloads\Charity – kopija\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.dll
+C:\Users\Eimis\Downloads\Charity – kopija\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.pdb
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.csprojAssemblyReference.cache
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.RazorAssemblyInfo.cache
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.RazorAssemblyInfo.cs
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.AssemblyInfoInputs.cache
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.AssemblyInfo.cs
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.dll
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.pdb
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\Charity.deps.json
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\Charity.runtimeconfig.json
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\Charity.runtimeconfig.dev.json
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\Charity.dll
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\bin\Debug\netcoreapp2.2\Charity.pdb
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\Charity\obj\Debug\netcoreapp2.2\Charity.RazorTargetAssemblyInfo.cache
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\bin\Debug\netcoreapp2.2\Charity.deps.json
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\bin\Debug\netcoreapp2.2\Charity.runtimeconfig.json
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\bin\Debug\netcoreapp2.2\Charity.runtimeconfig.dev.json
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\bin\Debug\netcoreapp2.2\Charity.dll
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\bin\Debug\netcoreapp2.2\Charity.pdb
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.csprojAssemblyReference.cache
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.RazorAssemblyInfo.cache
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.RazorAssemblyInfo.cs
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.AssemblyInfoInputs.cache
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.AssemblyInfo.cs
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.RazorTargetAssemblyInfo.cache
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.dll
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\Charity\obj\Debug\netcoreapp2.2\Charity.pdb

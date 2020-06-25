@@ -1,0 +1,21 @@
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\bin\Debug\netcoreapp2.2\CharityTests.deps.json
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\bin\Debug\netcoreapp2.2\CharityTests.runtimeconfig.json
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\bin\Debug\netcoreapp2.2\CharityTests.runtimeconfig.dev.json
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\bin\Debug\netcoreapp2.2\CharityTests.dll
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\bin\Debug\netcoreapp2.2\CharityTests.pdb
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\bin\Debug\netcoreapp2.2\Charity.dll
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\bin\Debug\netcoreapp2.2\Charity.pdb
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\obj\Debug\netcoreapp2.2\CharityTests.csprojAssemblyReference.cache
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\obj\Debug\netcoreapp2.2\CharityTests.AssemblyInfoInputs.cache
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\obj\Debug\netcoreapp2.2\CharityTests.AssemblyInfo.cs
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\obj\Debug\netcoreapp2.2\CharityTests.csproj.CopyComplete
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\obj\Debug\netcoreapp2.2\CharityTests.dll
+C:\Users\Eimis\Desktop\Charity – kopija\Charity – kopija\CharityTests\obj\Debug\netcoreapp2.2\CharityTests.pdb
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\CharityTests\obj\Debug\netcoreapp2.2\CharityTests.csprojAssemblyReference.cache
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\CharityTests\obj\Debug\netcoreapp2.2\CharityTests.AssemblyInfoInputs.cache
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\CharityTests\obj\Debug\netcoreapp2.2\CharityTests.AssemblyInfo.cs
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\CharityTests\obj\Debug\netcoreapp2.2\CharityTests.dll
+C:\Users\Eimis\Desktop\Charity – kopija\Charity\CharityTests\obj\Debug\netcoreapp2.2\CharityTests.pdb
